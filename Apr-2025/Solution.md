@@ -22,9 +22,7 @@ The probability that **neither** child continues an all-zero path is:
 
 <div align="center">  
 (1)  
-$$
-P_{\text{fail}} = (1 - x)^2
-$$
+$P_{\text{fail}} = (1 - x)^2$
 </div>
 
 Thus, the probability that **at least one child** continues the path is:
